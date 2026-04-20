@@ -6,4 +6,4 @@ scrape_configs:
     metrics_path: /actuator/prometheus
     static_configs:
       - targets:
-          - host.docker.internal:8082
+          - 13.209.16.155:8082
