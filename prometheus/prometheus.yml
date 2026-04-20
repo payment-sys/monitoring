@@ -6,4 +6,4 @@ scrape_configs:
     metrics_path: /actuator/prometheus
     static_configs:
       - targets:
-          - 52.78.243.17:8082
+          - 10.0.1.197:8082
